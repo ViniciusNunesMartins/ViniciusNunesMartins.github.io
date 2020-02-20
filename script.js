@@ -1,7 +1,3 @@
-var nav = document.getElementsByTagName("nav")[0];
+// var carrossel = document.getElementById("carrossel")
 
-if (window.innerWidth < 768) {
-    
-} else {
-
-}
+// console.log();

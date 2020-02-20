@@ -1,0 +1,3 @@
+[submodule "pdfThumbnails"]
+	path = pdfThumbnails
+	url = https://github.com/scandel/pdfThumbnails.git

@@ -1,9 +1,0 @@
-@keyframes nohouver {
-    from {padding: 10px 30px;}
-    to {padding: 10px;}
-}
-
-@keyframes houver {
-    from {padding: 10px;}
-    to {padding: 10px 30px;}
-}
